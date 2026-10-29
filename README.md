@@ -1,11 +1,5 @@
 # Address Book Management System in C
 
-**Project Name:** Address Book  
-**Name:** Chatta Venkata Narasimha  
-**Batch Number:** 26015B  
-**Project Date:** 29 August 2026  
-**Language:** C
-
 ## Project Description
 
 The Address Book Management System is a menu-driven C application used to store and manage personal contact information. Each contact contains a name, mobile number, and email address.
@@ -132,9 +126,3 @@ Keep `AddressBook.csv` in the program's working directory so the application can
 - Improve CSV parsing to handle commas or quotation marks inside fields.
 - Add automated tests and clearer error handling.
 
-## Author
-
-**Chatta Venkata Narasimha**  
-**Batch No.:** 26015B  
-**Project:** Address Book Management System in C  
-**Date:** 29 August 2026
